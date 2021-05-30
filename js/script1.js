@@ -64,12 +64,15 @@ console.log(4 + +"5"); // 9 Плюсик перед 5 назыывается "у
 let incr = 10,
     decr = 10;
 
-    incr++; //11
-    decr--; //9
+console.log(incr++); //10
+console.log(decr--); //10
+
+console.log(++incr); //11
+console.log(--decr); //9
 
 
 
-
+asd
 
 
 
