@@ -72,7 +72,4 @@ console.log(--decr); //9
 
 
 
-asd
-
-
 
